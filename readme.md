@@ -4,8 +4,8 @@
 
 Le but était de faire un blackjack en réseau local.
 Le groupe est composé de :
-* Andréa Franco
-* Nicolas Serf
+* Andréa Franco ( a implémenté le client)
+* Nicolas Serf (a implémenté le serveur)
 
 ## Fonctionnement général
 
